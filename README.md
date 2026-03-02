@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/Language-Java-blue)
+![OOP](https://img.shields.io/badge/Concept-OOP-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 # 💳 ATM Interface System (Java)
 
 ## 📌 Overview
