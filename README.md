@@ -21,6 +21,12 @@ A Java-based ATM simulation system that allows users to:
 - Scanner Class
 
 ## 📁 Project Structure
-- BankAccount.java
-- ATM.java
-- Main.java
+ATM-Interface-System/
+│
+├── src/
+│   ├── BankAccount.java
+│   ├── ATM.java
+│   └── Main.java
+│
+├── README.md
+└── LICENSE
